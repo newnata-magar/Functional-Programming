@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\Console\HigherOrder\bin\Debug\net7.0\HigherOrder.exe
+C:\Users\Hp\Desktop\Console\HigherOrder\bin\Debug\net7.0\HigherOrder.deps.json
+C:\Users\Hp\Desktop\Console\HigherOrder\bin\Debug\net7.0\HigherOrder.runtimeconfig.json
+C:\Users\Hp\Desktop\Console\HigherOrder\bin\Debug\net7.0\HigherOrder.dll
+C:\Users\Hp\Desktop\Console\HigherOrder\bin\Debug\net7.0\HigherOrder.pdb
+C:\Users\Hp\Desktop\Console\HigherOrder\obj\Debug\net7.0\HigherOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Console\HigherOrder\obj\Debug\net7.0\HigherOrder.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Console\HigherOrder\obj\Debug\net7.0\HigherOrder.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Console\HigherOrder\obj\Debug\net7.0\HigherOrder.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Console\HigherOrder\obj\Debug\net7.0\HigherOrder.dll
+C:\Users\Hp\Desktop\Console\HigherOrder\obj\Debug\net7.0\refint\HigherOrder.dll
+C:\Users\Hp\Desktop\Console\HigherOrder\obj\Debug\net7.0\HigherOrder.pdb
+C:\Users\Hp\Desktop\Console\HigherOrder\obj\Debug\net7.0\HigherOrder.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Console\HigherOrder\obj\Debug\net7.0\ref\HigherOrder.dll

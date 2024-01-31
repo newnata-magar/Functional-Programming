@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\Console\NonDeterministic\bin\Debug\net7.0\NonDeterministic.exe
+C:\Users\Hp\Desktop\Console\NonDeterministic\bin\Debug\net7.0\NonDeterministic.deps.json
+C:\Users\Hp\Desktop\Console\NonDeterministic\bin\Debug\net7.0\NonDeterministic.runtimeconfig.json
+C:\Users\Hp\Desktop\Console\NonDeterministic\bin\Debug\net7.0\NonDeterministic.dll
+C:\Users\Hp\Desktop\Console\NonDeterministic\bin\Debug\net7.0\NonDeterministic.pdb
+C:\Users\Hp\Desktop\Console\NonDeterministic\obj\Debug\net7.0\NonDeterministic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Console\NonDeterministic\obj\Debug\net7.0\NonDeterministic.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Console\NonDeterministic\obj\Debug\net7.0\NonDeterministic.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Console\NonDeterministic\obj\Debug\net7.0\NonDeterministic.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Console\NonDeterministic\obj\Debug\net7.0\NonDeterministic.dll
+C:\Users\Hp\Desktop\Console\NonDeterministic\obj\Debug\net7.0\refint\NonDeterministic.dll
+C:\Users\Hp\Desktop\Console\NonDeterministic\obj\Debug\net7.0\NonDeterministic.pdb
+C:\Users\Hp\Desktop\Console\NonDeterministic\obj\Debug\net7.0\NonDeterministic.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Console\NonDeterministic\obj\Debug\net7.0\ref\NonDeterministic.dll

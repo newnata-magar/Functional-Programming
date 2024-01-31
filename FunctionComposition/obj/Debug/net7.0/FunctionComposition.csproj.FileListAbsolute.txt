@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\Console\FunctionComposition\bin\Debug\net7.0\FunctionComposition.exe
+C:\Users\Hp\Desktop\Console\FunctionComposition\bin\Debug\net7.0\FunctionComposition.deps.json
+C:\Users\Hp\Desktop\Console\FunctionComposition\bin\Debug\net7.0\FunctionComposition.runtimeconfig.json
+C:\Users\Hp\Desktop\Console\FunctionComposition\bin\Debug\net7.0\FunctionComposition.dll
+C:\Users\Hp\Desktop\Console\FunctionComposition\bin\Debug\net7.0\FunctionComposition.pdb
+C:\Users\Hp\Desktop\Console\FunctionComposition\obj\Debug\net7.0\FunctionComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Console\FunctionComposition\obj\Debug\net7.0\FunctionComposition.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Console\FunctionComposition\obj\Debug\net7.0\FunctionComposition.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Console\FunctionComposition\obj\Debug\net7.0\FunctionComposition.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Console\FunctionComposition\obj\Debug\net7.0\FunctionComposition.dll
+C:\Users\Hp\Desktop\Console\FunctionComposition\obj\Debug\net7.0\refint\FunctionComposition.dll
+C:\Users\Hp\Desktop\Console\FunctionComposition\obj\Debug\net7.0\FunctionComposition.pdb
+C:\Users\Hp\Desktop\Console\FunctionComposition\obj\Debug\net7.0\FunctionComposition.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Console\FunctionComposition\obj\Debug\net7.0\ref\FunctionComposition.dll

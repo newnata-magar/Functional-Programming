@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\Console\Pure\bin\Debug\net7.0\Pure.exe
+C:\Users\Hp\Desktop\Console\Pure\bin\Debug\net7.0\Pure.deps.json
+C:\Users\Hp\Desktop\Console\Pure\bin\Debug\net7.0\Pure.runtimeconfig.json
+C:\Users\Hp\Desktop\Console\Pure\bin\Debug\net7.0\Pure.dll
+C:\Users\Hp\Desktop\Console\Pure\bin\Debug\net7.0\Pure.pdb
+C:\Users\Hp\Desktop\Console\Pure\obj\Debug\net7.0\Pure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Console\Pure\obj\Debug\net7.0\Pure.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Console\Pure\obj\Debug\net7.0\Pure.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Console\Pure\obj\Debug\net7.0\Pure.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Console\Pure\obj\Debug\net7.0\Pure.dll
+C:\Users\Hp\Desktop\Console\Pure\obj\Debug\net7.0\refint\Pure.dll
+C:\Users\Hp\Desktop\Console\Pure\obj\Debug\net7.0\Pure.pdb
+C:\Users\Hp\Desktop\Console\Pure\obj\Debug\net7.0\Pure.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Console\Pure\obj\Debug\net7.0\ref\Pure.dll
